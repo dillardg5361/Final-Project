@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible"
+content="IE=edge" />
+<meta name="viewport"
+content="width=device-width, initial-
+scale=1.0" />
+<title>Contact Us</title>
+/>
+<link rel="stylesheet" href="style.css"
+</head>
+<body>
+<div class="container">
+<div class="logo">
+width="130" />
+</li>
+</div>
+<nav>
+</b>
+<img src="logo.png" alt=""
+Us</a></li>
+Us</a></li>
+<ul>
+Us</b>
+href="table.html">information</a></li>
+<li><a href="index.html">Home</a>
+group">
+<li><a href="about.html"> About
+</nav>
+group">
+<li><a href="contact.html">Contac
+</div>
+<section>
+<div id="contact" >
+<p class="contact">
+This is all information about me;
+email me at <b><a
+href="mailto:xyz@gmail.com">abc@xyz.com</a>
+<li><a
+group">
+</ul>
+</p>
+<div class="fcf-body">
+<div id="fcf-form">
+class="fcf-label">Your
+<b class="contact">Contact
+</body>
+</html>
+<div class="fcf-form-class">
+<form
+<div class="fcf-form-group">
+<label for="Name"
+name</label>
+<div class="fcf-input-
+<input
+</div>
+type="text"
+id="Name"
+name="Name"
+/>
+</div>
+class="fcf-label">Your
+class="fcf-form-control
+required
+<div class="fcf-form-group">
+<label for="Email"
+email address</label
+<div class="fcf-input-
+</div>
+<input
+type="email"
+id="Email"
+name="Email"
+class="fcf-form-control
+/>
+</div>
+required
+class="fcf-label">Your message</label>
+<div class="fcf-input-
+<div class="fcf-form-group">
+<label for="Message"
+<textarea
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</section>
+id="Message"
+name="Message"
+class="fcf-form-control
+rows="6"
+maxlength="3000"
+required
+></textarea>
+</div>
+</div>
+<div class="fcf-form-group">
+<button
+type="submit"
+id="fcf-button"
+class="fcf-btn fcf-btn-
+primary fcf-btn-lg fcf-btn-block"
+Send Message
+</button>

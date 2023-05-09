@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible"
+content="IE=edge">
+	<meta name="viewport"
+content="width=device-width, initial-
+scale=1.0">
+	<title>index (Home Page) </title>
+	<link rel="stylesheet"
+href="style.css">
+</head>
+<body>
+	<div class="container">
+		<div class="logo">
+		<img src="logo.png" alt=""width="130" />
+	</div>
+	<nav>
+	<li><a
+	href="index.html">Home</a></li>
+		<ul>
+		About Us</a></li>
+		</li>
+	<li><a
+href="contact.html">Contact Us</a></li>
+	<li><a
+	<li><a href="about.html">
+href="table.html">information</a></li>
+	<li><a
+href="feedback.html">feedback Form</a>
+	</body>
+	</html>
+	</ul>
+	</div>
+	</nav>
+<h1>Home Html Page </h1>
